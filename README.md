@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a web application
 - 🤔 I’m looking for help with my poor situation
 - 💬 Ask me about whatever you want to know
-- 📫 How to reach me: FullOfYou1314@gmail.com
+- 📫 How to reach me: xxxx@gmail.com
 - 😄 Pronouns: 我与我周旋，宁作我
 - ⚡ Fun fact: I'm just a joker and a liar
