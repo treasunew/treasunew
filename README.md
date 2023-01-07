@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 --> 
-- 🔭 I’m currently working on postgraduate entrance examination
+- 🔭 I’m currently working on Graduation Project
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on a web application
 - 🤔 I’m looking for help with my poor situation
