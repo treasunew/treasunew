@@ -4,14 +4,4 @@
 
 <!--
 **treasunew/treasunew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
---> 
-- 🔭 I’m currently working on Graduation Project
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on a web application
-- 🤔 I’m looking for help with my poor situation
-- 💬 Ask me about whatever you want to know
-- 🤡 How to reach me: [TeleGram](https://t.me/TrustPurple)
-- 😄 Pronouns: 我与我周旋，宁作我
-- ⚡ Fun fact: I'm just a joker and a liar
+Do Whatever You want
